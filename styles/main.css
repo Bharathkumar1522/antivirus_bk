@@ -25,7 +25,7 @@ body{
     width: 62px;
 }
 .nav-font{
-    font-size: 22px;
+    font-size: 1.375rem;
 }
 .bg-color{
     background-color: #efecec;
@@ -51,7 +51,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 3rem;
      */
-    font-size: 62px;
+    font-size: 3.876rem;
     background: -webkit-linear-gradient(#02e114, #011b0495);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -78,14 +78,14 @@ body{
 }
 .mark-list li::marker {
     content: '▶   ';
-    font-size: 20px;
+    font-size: 1.25rem;
     color: #261b1b;
     box-shadow: 10px 10px 60px -15px rgba(0,0,0,0.75);
     
     
   }
 .list-font{
-    font-size: 34px;
+    font-size: 2.125rem;
     font-weight: bolder;
     font-family: 'Fira Sans', sans-serif;
     color: #1b1b1b;
@@ -94,7 +94,7 @@ body{
 .price-tag{
     font-weight: bolder;
     font-family: 'Roboto Mono', monospace;
-    font-size: 39px;
+    font-size: 2.438rem;
     background: -webkit-linear-gradient(#ff0404, #ff03b3e4);
     background-clip: text;
   -webkit-background-clip: text;
@@ -111,7 +111,7 @@ button {
     background: #e8e8e8;
     position: relative;
     font-weight: 1000;
-    font-size: 17px;
+    font-size: 1.063rem;
     -webkit-box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
     box-shadow: 4px 8px 19px -3px rgba(0,0,0,0.27);
     transition: all 250ms;
@@ -150,7 +150,7 @@ button {
 }
 .firewall-text{
     font-family: 'Gabarito', cursive;
-    font-size: 29px;
+    font-size: 1.813rem;
     padding: 40px;
     margin-top: 50px;
     margin-left: 95px;
@@ -167,7 +167,7 @@ button {
 }
 .banner-card-right-text{
     font-family: 'Gabarito', cursive;
-    font-size: 29px;
+    font-size: 1.813rem;
     margin-top: 170px;
     margin-right: 85px;
     padding: 35px;
@@ -200,20 +200,20 @@ button {
 
 .icon {
     color: #5a8461;
-    font-size: 40px;
+    font-size: 2.5rem;
 }
 
 .vr-footer-address {
     color: #5a7184;
     font-family: "Roboto";
-    font-size: 22px;
+    font-size: 1.375rem;
 
 }
 
 .vr-contact-us-head {
     font-weight: bold;
     color: #5a7184;
-    font-size: 22px;
+    font-size: 1.375rem;
     font-family: "Roboto";
 }
 
@@ -225,13 +225,13 @@ button {
 .vr-footer-credits {
     color: #959ead;
     font-family: "Roboto";
-    font-size: 19px;
+    font-size: 1.188rem;
     
 
 }
 .icon-2 {
     color: #5a7184;
-    font-size: 20px;
+    font-size: 1.25rem;
 }
 .carousel-adjust{
     margin: auto;
