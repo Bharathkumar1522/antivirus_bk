@@ -21,11 +21,11 @@ body{
     box-shadow: -10px -10px 25px -5px rgba(158, 156, 156, 0.75), 10px 10px 25px -5px rgba(123, 122, 122, 0.75);
   }
 .nav-logo{
-    height:62px;
-    width: 62px;
+    height:42px;
+    width: 42px;
 }
 .nav-font{
-    font-size: 1.375rem;
+    font-size: 1.0rem;
 }
 .bg-color{
     background-color: #efecec;
@@ -51,7 +51,7 @@ body{
     font-family: 'Roboto', sans-serif;
     font-size: 3rem;
      */
-    font-size: 3.876rem;
+    font-size: 2.79rem;
     background: -webkit-linear-gradient(#02e114, #011b0495);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -78,23 +78,23 @@ body{
 }
 .mark-list li::marker {
     content: '▶   ';
-    font-size: 1.25rem;
+    font-size: 1.0rem;
     color: #261b1b;
     box-shadow: 10px 10px 60px -15px rgba(0,0,0,0.75);
     
     
   }
 .list-font{
-    font-size: 2.125rem;
+    font-size: 1.5rem;
     font-weight: bolder;
     font-family: 'Fira Sans', sans-serif;
     color: #1b1b1b;
     margin-top: 2px;
 }
 .price-tag{
-    font-weight: bolder;
+    font-weight: bold;
     font-family: 'Roboto Mono', monospace;
-    font-size: 2.438rem;
+    font-size: 1.4rem;
     background: -webkit-linear-gradient(#ff0404, #ff03b3e4);
     background-clip: text;
   -webkit-background-clip: text;
@@ -150,7 +150,7 @@ button {
 }
 .firewall-text{
     font-family: 'Gabarito', cursive;
-    font-size: 1.813rem;
+    font-size: 1.3rem;
     padding: 40px;
     margin-top: 50px;
     margin-left: 95px;
@@ -167,7 +167,7 @@ button {
 }
 .banner-card-right-text{
     font-family: 'Gabarito', cursive;
-    font-size: 1.813rem;
+    font-size: 1.3rem;
     margin-top: 170px;
     margin-right: 85px;
     padding: 35px;
@@ -185,35 +185,35 @@ button {
 }
 
 .vr-footer-icon-bg {
-    height: 70px;
-    width: 70px;
+    height: 50px;
+    width: 50px;
     background: #eeeded;
-    box-shadow:  31px 31px 54px #bababa,
-             -31px -31px 54px #ffffff;
-    padding-right: 32px;
-    padding-left: 16px;
-    padding-top: 16px;
-    padding-bottom: 32px;
+    box-shadow:  31px 31px 54px #4c4a4a,
+             -31px -31px 54px #b7b2b2;
+    padding-right: 20px;
+    padding-left: 14px;
+    padding-top: 14px;
+    padding-bottom: 12px;
     margin: 6px;
     border-radius: 50px;
 }
 
 .icon {
     color: #5a8461;
-    font-size: 2.5rem;
+    font-size: 1.5rem;
 }
 
 .vr-footer-address {
     color: #5a7184;
     font-family: "Roboto";
-    font-size: 1.375rem;
+    font-size: 1.0rem;
 
 }
 
 .vr-contact-us-head {
     font-weight: bold;
     color: #5a7184;
-    font-size: 1.375rem;
+    font-size: 1.4rem;
     font-family: "Roboto";
 }
 
@@ -225,13 +225,13 @@ button {
 .vr-footer-credits {
     color: #959ead;
     font-family: "Roboto";
-    font-size: 1.188rem;
+    font-size: 0.9rem;
     
 
 }
 .icon-2 {
     color: #5a7184;
-    font-size: 1.25rem;
+    font-size: 1.0rem;
 }
 .carousel-adjust{
     margin: auto;
